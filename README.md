@@ -41,5 +41,4 @@ Personal-Career-Navigator
 - Interactive dashboard
 
 ## Author
-Crispin Theophane
-Nandana Sreejith 
+Crispin Theophane, Nandana Sreejith, Neha Jose
