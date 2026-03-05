@@ -21,6 +21,7 @@ The system analyzes user inputs and provides personalized career recommendations
 ## Project Structure
 Personal-Career-Navigator
 │
+
 ├── src
 ├── models
 ├── data
